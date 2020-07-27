@@ -1,11 +1,14 @@
-### Hi there 👋
+[![Pablo Andrés Dorado Suárez](background.jpg)](https://pablodorado.com)
+
+Hi, I'm Pablo Dorado. I'm a Development Tools and methodologies researcher, passionate by education and in ways to improve people's life quality through technology.
+
+I'm currently working on [Castr](https://castr.io), where we build awesome experiences around streaming services, and learning about Data Science in my free time. Also, I'm the producer of a Podcast called [Podcastless](https://podcastless.com).
 
 <!--
 **pandres95/pandres95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
