@@ -1,4 +1,4 @@
-[![Pablo Andrés Dorado Suárez](background.png)](https://pablodorado.com)
+[![Pablo Andrés Dorado Suárez](./background.png)](https://pablodorado.com)
 
 Hi, I'm Pablo Dorado. I'm a Development Tools and methodologies researcher, passionate by education and in ways to improve people's life quality through technology.
 
