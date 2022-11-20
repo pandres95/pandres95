@@ -1,8 +1,13 @@
-[![Pablo Andrés Dorado Suárez](https://raw.githubusercontent.com/pandres95/pandres95/master/background.png)](https://pablodorado.com)
+## Hey everyone 👋
 
-Hi, I'm Pablo Dorado. I'm a Development Tools and methodologies Researcher, passionate by education and in ways to improve people's life quality through technology.
+I'm Pablo Dorado. I'm a Development Tools and methodologies Researcher, passionate by education and in ways to improve people's life quality through technology.
 
-I'm currently working as Senior Software Engineer at [@bloque-app](https://github.com/bloque-app), and writing a book about [Deno](https://github.com/pandres95/the-deno-encyclopedia). Also, I'm the producer of a Podcast called [Podcastless](https://podcastless.com).
+I'm currently working as Senior Software Engineer at [Bloque](https://github.com/bloque-app), and writing a book about [Deno](https://github.com/pandres95/the-deno-encyclopedia). Also, I'm the producer of a Podcast called [Podcastless](https://podcastless.com).
+
+## Some badges
+
+[![@pandres95's Holopin board](https://holopin.me/pandres95)](https://holopin.io/@pandres95)
+
 
 <!--
 **pandres95/pandres95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
