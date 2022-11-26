@@ -1,6 +1,6 @@
 ## Hey everyone 👋
 
-I'm Pablo Dorado. I'm a Development Tools and methodologies Researcher, passionate by education and in ways to improve people's life quality through technology.
+I'm Pablo Dorado. a Development Tools and methodologies Researcher, passionate by education and in ways to improve people's life quality through technology.
 
 I'm currently working as Senior Software Engineer at [Bloque](https://github.com/bloque-app), and writing a book about [Deno](https://github.com/pandres95/the-deno-encyclopedia). Also, I'm the producer of a Podcast called [Podcastless](https://podcastless.com).
 
