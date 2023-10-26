@@ -4,8 +4,6 @@ I'm Pablo Dorado. a Development Tools and methodologies Researcher, passionate b
 
 I'm currently working as Senior Blockchain Engineer at [Virto](https://github.com/virto-network), and writing a book about [Deno](https://github.com/pandres95/the-deno-encyclopedia). Also, I'm the producer of a Podcast called [Podcastless](https://podcastless.com).
 
-## Some badges
-
 [![@pandres95's Holopin board](https://holopin.me/pandres95)](https://holopin.io/@pandres95)
 
 
